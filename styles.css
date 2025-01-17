@@ -1,0 +1,318 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.topBoxes {width:100%;
+height:100px; }
+
+.top1 {
+height: 40px;
+background-color: black;
+
+}
+h7 {color: white;
+font-size: 20px;
+font-family: openSans;
+position: relative;
+top: 2px;
+left: 20px;}
+p2 {font-weight: light;
+    color: white;
+    
+position: relative;
+left: 1130px;
+top: 3px;
+font-size: 13px;}
+
+.top2 {
+height: 60px;
+background-color: whitesmoke;}
+
+.top2 a {position: relative;
+text-decoration: none;
+color: grey;
+position: relative;
+left: 807px;}
+
+.top2 h8 {font-family: sans-serif;
+    color: seagreen;
+font-size: 30px;
+position: relative;
+left: 20px;}
+
+
+.box1 {
+            background-color: rgba(0, 0, 0, .5);
+            width: 300px;
+            height: 600px;
+            margin: 50px 190px;
+            top: 50px;
+            position: absolute;
+            z-index: 1;
+            left: 820px;
+        }
+
+        .box1 h4 {color: white;
+            font-size: 20px;
+            position: relative;
+            left: 25px;}
+        .box1 p1 {color: white;
+            position: relative;
+            top: -20px;
+            left: 25px;}
+
+        .box1 label {color: white;
+                    position: relative;
+                    left: 25px;}
+        .box1 input {width: 150px;
+            height: 20px;
+            position: relative;
+            left: 25px;}
+        .box1 img {position: relative;
+            width: 20px;
+            height: 20px;
+            top: 5px}
+
+        .box1 button {background-color: mediumseagreen;
+            width: 230px;
+        height: 35px;
+        font-size: 12px;
+        position: relative;
+        color: white;
+        font-weight: bold;
+        left: 40px;
+        border: none;
+    }
+.box1 button.EDUCATOR {position: relative;
+top: 10px;}
+
+.box1 button.SIGNIN {position: relative;
+top: 10px;}
+
+.container {
+        width: 100%;
+        height:600px;
+        background-image: url("./Images/hero-tall-002.jpg");
+        position: relative;
+        z-index: 0;
+    }
+
+.headBox{width: 500px;
+    height: 10px;
+    position: relative;
+    top: -190px;}
+
+h5 {font-weight: Light, sans-serif;
+    font-size: xx-large;
+    color: white;}
+
+.box2 { width:700px;
+height: 30px;
+position: relative;
+top: -175px;
+}
+
+.box2 a{color: lightgreen;
+text-decoration: none;}
+
+.box2 img {position: relative;
+top: 60px;}
+
+.box2 p {position: relative;
+left: 60px;
+color: white;}
+
+
+.greenBox1 {background-color: darkgreen;
+width:195px;
+height: 150px;
+position: relative;
+top: -90px;}
+
+.greenbox1 a {color: white;
+text-decoration: none;
+position: relative;
+left: 10px;
+top: 5px;}
+.greenbox1 h6 {font-size: 18px;}
+.greenbox1 p3 {font-size: 14px;
+position: relative;
+top: -60px;}
+
+.greenBox2 {background-color: seagreen;
+width:195px;
+height: 150px;
+position: relative;
+left: 220px;
+top: -240px}
+
+.greenBox2 a {color: white;
+text-decoration: none;
+position: relative;
+left: 10px;
+top: 5px;}
+.greenBox2 h9 {font-size: 18px;}
+.greenbox2 p3 {font-size: 14px;}
+
+.bottomBoxes {width: 1800px;
+height: 500px;
+position: relative;
+top: 30px;
+}
+
+.box3 {width: 580px;
+height: 300px;
+position: relative;
+}
+
+.box3 header {font-size: 35px;
+color: darkslategrey;
+position: relative;
+left: 40px}
+
+.box3 p5 {position: relative;
+    color: dimgrey ;
+top: 10px;
+left: 40px;}
+
+.box3 p6 {position: relative;
+    color: dimgrey;
+top: 20px;
+left: 40px;}
+
+.box3 a {color: steelblue;
+text-decoration: none;
+position: relative;
+font-weight: bold;
+top: 40px;
+left: 40px;}
+
+.box4 {position: relative;
+width: 550px;
+height: 300px;
+left: 732px;
+top:-300px;}
+
+.box4 p8 {color: darkslategrey;
+font-weight: bold;
+position: relative;
+top: 15px;}
+
+.box4 p9 {font-weight: light;
+position: relative;
+top:15px;}
+
+.box4 p10 {position: relative;
+top:50px;
+color: darkslategrey;
+font-weight: bold;}
+
+.box4 a {text-decoration: none;
+color: steelblue;
+font-weight: light;}
+
+.blackBox {width: 100%;
+height: 350px;
+background-color: #2a2727;}
+
+.set1 {width: 150px;
+height: 150px;
+position: relative;
+top: 40px;
+left: 40px;}
+
+.set1 p11 {color: grey;}
+
+.set1 a {text-decoration: none;
+color:white;
+font-size: 12px;}
+
+.set1a {width: 200px;
+height: 100px;
+position: relative;
+left: 40px;}
+
+p11 {color:grey;}
+.set1a a {color: white;
+text-decoration: none;
+font-size: 12px;}
+
+.set2 {width: 200px;
+height: 150px;
+
+position: relative;
+left: 300px;
+top: -209px}
+
+.set2 a {color: white;
+text-decoration: none;
+font-size: 12px;}
+
+.set3 {width: 200px;
+height: 150px;
+position: relative;
+left: 650px;
+top: -360px}
+.set3 a {color: white;
+text-decoration: none;
+font-size: 12px;}
+
+.set4 {width: 200px;
+height: 100px;
+position: relative;
+left: 850px;
+top: -510px}
+.set4 a {color: white;
+text-decoration: none;
+font-size: 12px;}
+
+.set5 {width: 200px;
+height: 100px;
+position: relative;
+left: 1100px;
+top: -610px}
+.set5 a {color: white;
+text-decoration: none;
+font-size: 12px;}
+
+.finalBox {width: 1750px;
+position: relative;
+top: -450px; 
+left: 25px;
+border-top: thin solid gray;
+}
+
+.finalBox p12{color:grey;
+font-size: 12px;}
+
+.finalBox a {text-decoration: none;
+color: white;
+font-size: 12px;}
+
+.circle-button{
+    border-radius: 50%;
+    margin-left: 550px;
+    margin-top: -100px;
+    font-size: 20px;
+    height: 60px;
+    width: 60px;
+    color: aliceblue;
+    background-color: seagreen;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+.circle-button:hover {
+    background-color: green;
+}
+.in{
+    border-radius: 0.5%;
+}
+.SIGNIN{
+    border-radius: 3%;
+}
+.STUDENT{
+    border-radius: 3%;
+}
